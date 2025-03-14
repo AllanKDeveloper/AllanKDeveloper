@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Full Stack Developer • Data Science Enthusiast • Lifelong Learner
+  Software Engineer • Web3 Enthusiast • Lifelong Learner
 </h3>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
@@ -12,7 +12,7 @@
 
 <p><strong>About Me</strong></p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Allan Kehl, and I am a Full Stack Developer passionate about blockchain technology and decentralized applications (dApps).<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Allan Kehl, and I am a Software Engineer passionate about blockchain technology and decentralized applications (dApps).<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Currently, I am diving deeper into Web3 development, smart contracts, and blockchain infrastructure.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My primary stacks include React, Rust, and blockchain frameworks.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> My goal is to build innovative and secure decentralized applications, contributing to the future of Web3.<br />
